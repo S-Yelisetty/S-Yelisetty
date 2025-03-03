@@ -2,7 +2,7 @@
 
 https://www.linkedin.com/in/shanna-yelisetty/
 
-Experienced business leader with a strong background in restaurant operations, data analysis, and process optimization. Passionate about problem-solving, training, and driving efficiency. Always learning and adapting to new challenges.
+As a dedicated and results-driven professional with extensive experience in business management, I bring a strong foundation in strategic thinking, problem-solving, and operational efficiency. Though I am new to BIA,, my background in overseeing business operations, coupled with my critical thinking abilities, equips me with the skills to quickly adapt and excel in this field. I am known for my hardworking nature and my ability to analyze complex data to drive informed decision-making. My leadership experience, particularly in the restaurant industry, has helped me understand how to align business processes with organizational goals, giving me a unique perspective on how data can be leveraged to improve performance. I am eager to apply my business acumen and analytical mindset to contribute to data-driven solutions and make a meaningful impact in the BIA field.
 
 🔹 Skills: Business Strategy | Data Analysis | Operations Management | Training & Development
 🔹 Experience: Scaled restaurant brands to $3M+ annual revenue per location
@@ -15,7 +15,8 @@ Let's connect! 🚀
 
 - 👯 During my learning journey, I participated in an externship program, where I completed a business task from the company Zomato. Where I analyzied restaurant data and provided necessary feedbaack for increasing sales, what separated revnue from quanity sold, and understadning restaurant demographics and how to improve ratings.
   
-- 💬 Ask me about ...
+- 💬 Ask me about anything :)
+- 
 - 📫 How to reach me: s.b.yelisetty@gmail.com
 
 - ⚡ Fun fact: ...
