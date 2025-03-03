@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋, I am Shanna I am a professional data analyst
 
-<!--
-**S-Yelisetty/S-Yelisetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://www.linkedin.com/in/shanna-yelisetty/
 
-Here are some ideas to get you started:
+Experienced business leader with a strong background in restaurant operations, data analysis, and process optimization. Passionate about problem-solving, training, and driving efficiency. Always learning and adapting to new challenges.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+🔹 Skills: Business Strategy | Data Analysis | Operations Management | Training & Development
+🔹 Experience: Scaled restaurant brands to $3M+ annual revenue per location
+🔹 Interests: Technology, Critical Thinking, and Continuous Improvement
+
+Let's connect! 🚀
+
+- 🔭 I’m currently employed for TC4 hospitality as a Regional Director. Operating several restaurants and overseeing management to prodcue high quality results
+- 🌱 Currently I finished the TripleTen certification for Business Information Analysis certifcation. I have performed several practical projects gained experience with Power BI, Tableau, and SQL. 
+
+- 👯 During my learning journey, I participated in an externship program, where I completed a business task from the company Zomato. Where I analyzied restaurant data and provided necessary feedbaack for increasing sales, what separated revnue from quanity sold, and understadning restaurant demographics and how to improve ratings.
+  
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 📫 How to reach me: s.b.yelisetty@gmail.com
+
 - ⚡ Fun fact: ...
--->
+--> I love coaching, I have been a girls basketball coach for over 10yrs
+--> I love running, havn't been able to in a bit due to ankle surgery, but cannot wait to get back to it
+--> I have a Pitbull Terrier rescue and he is the best dog any person can have
+--> Joined the Marine Corps after graduating college. 
